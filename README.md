@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JAYPRAKASH44
-- 👀 I’m interested in ...Electronic & Instrumentation engineering and coding
-- 🌱 I’m currently learning ...c++ programming
-- 💞️ I’m looking to collaborate on ...Intership/training
+- 👀 I’m Full Stack Developer..
+- 🌱 I’m currently learning ...DSA And Web Development
+- 💞️ I’m looking to collaborate With IT Company
 - 📫 How to reach me ...jayprakashs186@gmail.com
 phone no- 8709668581
 
