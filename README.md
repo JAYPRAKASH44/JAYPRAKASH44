@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JAYPRAKASH44
 - 👀 I’m Full Stack Developer..
-- 🌱 I’m currently learning ...DSA And Web Development
+- 🌱 https://thepublicradio.com/
 - 💞️ I’m looking to collaborate With IT Company
 - 📫 How to reach me ...jayprakashs186@gmail.com
 phone no- 8709668581
